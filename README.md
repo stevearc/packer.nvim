@@ -1,5 +1,7 @@
 # packer.nvim
 
+This is a fork of packer.nvim with one minor change, maintained for Stripe because [#1057](https://github.com/wbthomason/packer.nvim/pull/1057) was not merged.
+
 [![Gitter](https://badges.gitter.im/packer-nvim/community.svg)](https://gitter.im/packer-nvim/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [`use-package`](https://github.com/jwiegley/use-package) inspired plugin/package management for
